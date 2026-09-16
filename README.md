@@ -1,5 +1,9 @@
 # Station Corner
 
+![Station Corner](cover.png)
+
+**線上遊玩：https://pondahai.github.io/station-corner/**
+
 這是一項 **Qwen3.8-27b 的測試**：一個可直接在瀏覽器開啟的街角便利店 3D 場景，並加入第一人行走、跳躍、碰撞與自動門進入功能。
 
 原始提示來源：https://youtu.be/ggwOHpwpDoU?si=GPZnRKFSd-1xsZOW
