@@ -1,0 +1,20 @@
+# Local development / debug pages
+probe.html
+check.html
+check2.html
+check3.html
+check4.html
+debug.html
+finalcheck.html
+camscan.html
+
+# Local helper scripts and screenshots
+crop.ps1
+shot*.png
+
+# Local agent notes
+AGENT.md
+
+# OS files
+.DS_Store
+Thumbs.db
