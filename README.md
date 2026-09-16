@@ -8,6 +8,10 @@
 
 原始提示來源：https://youtu.be/ggwOHpwpDoU?si=GPZnRKFSd-1xsZOW
 
+## 開發大綱
+
+這項測試從建立街角便利店 3D 場景開始，加入第一人行走、跳躍與碰撞；後來根據實際遊玩回饋修正自動門入口、櫃台動線與玻璃開口，最終整理並發布到 GitHub Pages。欲知詳細前因後果，請玩家看 [NOTES.md](NOTES.md)。
+
 ## 使用方式
 
 直接開啟 `index.html` 即可，不需要安裝或建置。
